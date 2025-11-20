@@ -12,8 +12,8 @@
     <h3 class="descriptionHeading"><strong>About Me</strong></h3>
     <div class="description">
         <ul>
-  <li>💼 I’m currently working at <strong>Wipro</strong></li>
-  <li>📚 I’m currently learning <strong>Full Stack Development & Blockchain</strong></li>
+  <li>💼 I had one year of experience in Client process in <strong>Wipro</strong></li>
+  <li>📚 <strong>Passionate about AI, data and technical stuff.</strong></li>
   <li>💬 Ask me anything about <strong>Front End Development & Data Structures and Algorithms</strong></li>
 </ul>
     </div>
